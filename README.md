@@ -66,4 +66,10 @@ https://www.techpit.jp/courses/127
 
 
 
+5 websites to practice Front end skills
+1.Tree house
+2.Javascript30
+3.Css battle
+4.Coder byte
+
 
